@@ -1,0 +1,7 @@
+# Ignore Python desktop application files so Vercel builds as static HTML/CSS/JS
+main.py
+requirements.txt
+core
+ui
+database
+logs
